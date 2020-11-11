@@ -16,7 +16,7 @@ const myStyle = {
 const Code = () =>{
     return (
         <div style={myStyle}>
-            <h1 className ="title-red">Your name here</h1>
+            <h1 className ="title-red"> AHMED GODDI</h1>
             <br/>
             <img className="imag1" src={Img1} alt="react-logo"/>
             <br/>

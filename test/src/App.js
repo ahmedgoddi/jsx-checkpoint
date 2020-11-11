@@ -8,6 +8,7 @@ function App() {
   return(
     <div>
     <Code/>
+    <br/>
     
     <Video/>
     </div>
